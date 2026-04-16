@@ -6,8 +6,8 @@
 
 ## Sobre mí
 
- Desarrollo aplicaciones full-stack modernas
-  Implemento IA en productos reales (multi-agentes, workflows, automatización)
+ Desarrollo aplicaciones full-stack modernas. 
+  Implemento IA en productos reales (multi-agentes, workflows, automatización). 
   Con conocimientos en despliegue cloud
 
 ---
@@ -44,9 +44,9 @@ NodeJS
 
 ## Formación
 
- Tecnicatura en Desarrollo de Software (último cuatrimestre)
- Formación en cloud y despliegue (AWS)
- Artificial Intelligence Fundamental (IBM)
+ Tecnicatura en Desarrollo de Software (último cuatrimestre).
+ Formación en cloud y despliegue (AWS).
+ Artificial Intelligence Fundamental (IBM).
  Próxima Licenciatura
 
 ---
