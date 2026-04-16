@@ -7,8 +7,8 @@
 ## Sobre mí
 
  Desarrollo aplicaciones full-stack modernas
- Implemento IA en productos reales (multi-agentes, workflows, automatización)
- Con conocimientos en despliegue cloud
+  Implemento IA en productos reales (multi-agentes, workflows, automatización)
+  Con conocimientos en despliegue cloud
 
 ---
 
