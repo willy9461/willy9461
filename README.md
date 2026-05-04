@@ -1,6 +1,6 @@
 # Hola, soy willy9461 (Guille)
 
-🚀 **AI Full Stack Developer | SaaS Builder | Cloud (AWS)**
+**Full Stack Developer | SaaS Builder | Cloud (AWS)**
 
 ---
 
