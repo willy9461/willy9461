@@ -8,31 +8,13 @@
 
  Desarrollo aplicaciones full-stack modernas. 
   Implemento IA en productos reales (multi-agentes, workflows, automatización). 
-  Con conocimientos en despliegue cloud
+  Despliegue cloud
 
 ---
 
-## ⚡ Tech Stack
 
-### 🖥️ Frontend
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs)
-![React](https://img.shields.io/badge/-React-000?logo=react)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?logo=tailwindcss)
-
-### 🔧 Backend
-
-![Supabase](https://img.shields.io/badge/-Supabase-000?logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
-NodeJS
-
-### ☁️ Cloud
-
-![AWS](https://img.shields.io/badge/-AWS-000?logo=amazonaws)
-
----
-
-## 🤖 AI & Automation
+## AI & Automation
 
 *  Sistemas multi-agente
 *  Automatización de workflows
@@ -51,7 +33,7 @@ NodeJS
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 https://www.linkedin.com/in/guillermogalarraga/
 
