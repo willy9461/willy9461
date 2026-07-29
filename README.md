@@ -1,14 +1,14 @@
 # Hola, soy willy9461 (Guille)
 
-**Full Stack Developer | SaaS Builder | Cloud (AWS)**
+**Full Stack Developer | Cloud (AWS)**
 
 ---
 
 ## Sobre mí
 
  Desarrollo aplicaciones full-stack modernas. 
-  Implemento IA en productos reales (multi-agentes, workflows, automatización). 
-  Despliegue cloud
+ Implemento IA en productos reales (multi-agentes, workflows, automatización). 
+ Despliegue cloud
 
 ---
 
@@ -26,10 +26,10 @@
 
 ## Formación
 
- Tecnicatura en Desarrollo de Software (último cuatrimestre).
+ Tecnicatura en Desarrollo de Software.
  Formación en cloud y despliegue (AWS).
  Artificial Intelligence Fundamental (IBM).
- Próxima Licenciatura
+ Licenciatura en Inteligencia Artificial
 
 ---
 
