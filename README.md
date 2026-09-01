@@ -1,6 +1,6 @@
 # Hola, soy willy9461 (Guille)
 
-**Full Stack Developer | Cloud (AWS)**
+**Full Stack Developer | Cloud - AWS GCP**
 
 ---
 
